@@ -1,0 +1,21 @@
+# AI Lab Dependencies
+
+# Core
+requests>=2.31.0
+aiohttp>=3.9.0
+python-dotenv>=1.0.0
+
+# Scheduling
+schedule>=1.2.0
+apscheduler>=3.10.0
+
+# Analytics
+sqlite-utils>=3.35
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+
+# Code quality
+black>=24.0.0
+ruff>=0.3.0
